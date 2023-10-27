@@ -1,4 +1,4 @@
-import java.sql.SQLSyntaxErrorException;
+
 import java.util.Scanner;
 
 public class asciiValue {
